@@ -1,0 +1,4 @@
+Resposta:
+
+  A capacidade de armazenamento da primitiva "int" foi estourada. - Que é de 2^31-1. 
+  Para resolver este problema, é só usar a primitiva long. - Que tem como capacidade de armazenamento máximo 2^63-1
