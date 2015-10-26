@@ -1,0 +1,5 @@
+Resposta:
+
+  A extensão ".java" contém apenas o código escrito pelo desenvolvedor. Com este código a máquina virtual
+não consegue fazer nada. Ele precisa ser compilado para gerar o bytecode e, com isso, a jvm possa executar
+usando este bytecode.
