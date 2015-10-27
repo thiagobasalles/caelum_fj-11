@@ -1,0 +1,11 @@
+Os trechos de códigos não fazem sentido. Pois não é possível acessar via classe(que é "Funcionario" - Estou falando da classe, e não da referência à instância) os atributos não estáticos dela. Nem seus métodos não estáticos. Essa abordagem será verificada em capítulos posteriores.
+
+Se tivessemos um método estático, ele teria esse perfil:
+
+public static String calculaGanhoAnual(){
+
+	...
+
+}
+
+O "static" seria o plus a mais aqui. 

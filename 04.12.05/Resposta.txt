@@ -1,0 +1,3 @@
+Neste exercício, podemos perceber que os funcionários são iguais. Faça o desenho, baseado na classe TesteFuncionario e tente entender.
+
+Caso não tenha entendido, a resposta é simples. Quando dissemos: funcionarioDois = funcionarioUm, estamos apenas pegando o identificador de posição na memória virtual que funcionarioUm possui e armazenando-o para a variável funcionarioDois. Sendo assim, agora, ambas apontam para a mesma instância. Logo, ambas são iguais.

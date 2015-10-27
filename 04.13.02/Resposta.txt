@@ -1,0 +1,1 @@
+Usando recursão, devemos calcular os valores várias vezes até chegar ao resultado final. No modo iterativo(loob ou laço, como são mais conhecidos), simplesmente armazenamos os valores já descobertos. Assim, não precisamos calcula-los novamente. Apenas com o primeiro e o segundo (fib(0) e fib(1)) conseguimos de maneira rápida achar os resultados.
