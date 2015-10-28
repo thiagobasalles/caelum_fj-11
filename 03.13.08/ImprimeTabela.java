@@ -1,4 +1,4 @@
-public class ImprimeTabela {
+class ImprimeTabela {
 
 	public static void main(String[] args) {
 		

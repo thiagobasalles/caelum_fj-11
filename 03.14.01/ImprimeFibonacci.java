@@ -1,5 +1,4 @@
-
-public class ImprimeFibonacci {
+class ImprimeFibonacci {
 
 	public static void main(String[] args){
 

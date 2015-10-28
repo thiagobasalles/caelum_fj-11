@@ -1,5 +1,4 @@
-
-public class ImprimeFatoriais {
+class ImprimeFatoriais {
 
 	public static void main(String[] args) {
 

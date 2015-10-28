@@ -1,5 +1,4 @@
-
-public class ImprimeX {
+class ImprimeX {
 
 	public static void main(String[] args) {
 

@@ -1,5 +1,4 @@
-
-public class ImprimeSoma {
+class ImprimeSoma {
 
 	public static void main(String[] args) {
 		

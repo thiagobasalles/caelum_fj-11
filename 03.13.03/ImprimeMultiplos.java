@@ -1,5 +1,4 @@
-
-public class ImprimeMultiplos {
+class ImprimeMultiplos {
 	
 	public static void main(String[] args){
 		

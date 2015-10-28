@@ -1,5 +1,4 @@
-
-public class ImprimeIntervalo {
+class ImprimeIntervalo {
 
 	public static void main(String args[]){
 		

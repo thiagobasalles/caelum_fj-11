@@ -1,5 +1,4 @@
-
-public class BalancoTrimestral {
+class BalancoTrimestral {
 
 	public static void main(String[] args) {
 
