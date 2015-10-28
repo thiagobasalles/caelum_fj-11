@@ -1,5 +1,4 @@
-
-public class MeuProgramaModificado {
+class MeuProgramaModificado {
 
 	public static void main(String[] args){
 		
