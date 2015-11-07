@@ -21,7 +21,7 @@ class TestaEmpresa{
 		empresa.adiciona(funcionarioDois);
 		empresa.adiciona(funcionarioTres);
 		
-		for(int i = 3; i<10; i++){
+		for(int i = 3; i<132; i++){
 			
 			Funcionario funcionario = new Funcionario();
 			
